@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SB-web",
+			"path": "SB-web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SB-web"
+	}
+}
